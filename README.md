@@ -9,4 +9,4 @@ Features:
 * moreover we have 2 additional features: the education in years and the yearly salary of an employee during his/her first year.
 
 # Linear Regression
-We use a Multi Linear Model to train and test our data.
+We use a multivariate linear regression model to train and test our data, in order to make prediction.
