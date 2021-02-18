@@ -168,8 +168,9 @@ pickle.dump(results, open(filename, 'wb'))
  
 # load the model from disk
 loaded_model = pickle.load(open(filename, 'rb'))
-result = loaded_model.params(X_test, y_test)
+result = loaded_model.params
 print(result)
+
 '''
 ## Conclusion:
 Our train test method suggest that the best model is Model 1, which is the following:
