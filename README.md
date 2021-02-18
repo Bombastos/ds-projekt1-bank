@@ -15,6 +15,6 @@ We use OLS on the Multi Linear Model to train and test our data. Our test size i
 
 ## Results
 * A short summary of the results are given in the following [slides](Projekt_us_bank.pdf).
-* A detailed EDA is given in the [Python Notebook](bankwages_pr.ipynb).
-* 
+* A detailed EDA is given in the [python notebook](bankwages_pr.ipynb).
+* A [python script](scriptusbankwages.py) is also available.
 
