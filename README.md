@@ -13,5 +13,8 @@ Features:
 ## Linear Regression
 We use OLS on the Multi Linear Model to train and test our data. Our test size is 30 %. 
 
-## Short Summary of the Results
-A short summary of the results are given in the following [slides](Projekt_us_bank.pdf).
+## Results
+* A short summary of the results are given in the following [slides](Projekt_us_bank.pdf).
+* A detailed EDA is given in the [Python Notebook](bankwages_pr.ipynb).
+* 
+
