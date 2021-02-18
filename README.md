@@ -2,7 +2,7 @@
 The aim of this projekt is to find a wage gap between men and women as well as to find a possible discrimination of minorities in the us banking sector.
 
 ## Data
-We have a sample data of US bank with 474 observations 
+We have a sample data of a US bank with 474 observations 
 Target:
 * our target variable is the yearly salary of US bank employees.
 
