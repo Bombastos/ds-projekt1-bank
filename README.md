@@ -14,4 +14,4 @@ Features:
 We use OLS on the Multi Linear Model to train and test our data. Our test size is 30 %. 
 
 ## Short Summary of the Results
-A short summary of the results are given in the following [presentation](Projekt_us_bank.pdf).
+A short summary of the results are given in the following [slides](Projekt_us_bank.pdf).
