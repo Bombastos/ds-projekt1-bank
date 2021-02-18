@@ -168,7 +168,7 @@ pickle.dump(results, open(filename, 'wb'))
  
 # load the model from disk
 loaded_model = pickle.load(open(filename, 'rb'))
-result = loaded_model.params
+result = loaded_model.summary()
 print(result)
 
 '''
